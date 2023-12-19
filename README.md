@@ -3,7 +3,7 @@
 <h3> 😸 &nbsp;Sobre mim: </h3>
   
 - 😼 Focado em aprender novas coisas.
-- 🎓 Aprimorando minhas habilidades em desenvolvimento Full Stack.
+- 🎓 Atualmente focado em programação voltada para Minecraft (Plugins)
 
 <h3> 📌 &nbsp;Minhas Skills </h3>
 
