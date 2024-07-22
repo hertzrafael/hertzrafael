@@ -16,4 +16,4 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ClarkQuente&count_private=true&show_icons=true&theme=cobalt)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hertzrafael&count_private=true&show_icons=true&theme=cobalt)
