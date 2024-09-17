@@ -2,8 +2,7 @@
 
 <h3> &nbsp;Sobre mim: </h3>
   
-- 😼 Focado em aprender novas coisas.
-- 🎓 Atualmente focando em back-end.
+- 🎓 Atualmente estudando Ciência de Dados para Negócios na UFPB.
 
 <h3> 📌 &nbsp;Minhas Skills </h3>
 
@@ -15,5 +14,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-1572B6?style=for-the-badge&logo=python&logoColor=white)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hertzrafael&count_private=true&show_icons=true&theme=cobalt)
