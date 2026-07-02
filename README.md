@@ -63,28 +63,6 @@ Atualmente atuo no desenvolvimento de aplicações de **Inteligência Artificial
 
 ---
 
-# 📌 Atualmente estudando
-
-- Machine Learning
-- Deep Learning
-- Engenharia de Dados
-- MLOps
-- Fine-tuning de Modelos
-- Sistemas com LLMs
-- Agentes de IA
-
----
-
-# 🚀 Alguns projetos
-
-- 🤖 Aplicações utilizando LLMs e RAG
-- 📈 Modelos de previsão de risco de crédito
-- 🧠 Fine-tuning e avaliação de modelos de IA
-- 📊 Dashboards e análise de dados
-- ⚙️ APIs para disponibilização de modelos em produção
-
----
-
 # 📈 Estatísticas
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hertzrafael&theme=tokyonight&locale=pt_BR)](https://git.io/streak-stats)
