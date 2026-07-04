@@ -71,4 +71,4 @@ Atualmente atuo no desenvolvimento de aplicações de **Inteligência Artificial
 
 # 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hertz-rafael-42963b206/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hertzrafael/)
